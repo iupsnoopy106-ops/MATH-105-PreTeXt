@@ -6,9 +6,9 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Spring 2026 MATH 342 </title>
+    <title>Spring 2026 MATH 105   College Algebra </title>
 
-    <subtitle>Advanced Mathematics for Applications</subtitle>
+    <subtitle>(Section 001 and Section 002)</subtitle>
 
     
 

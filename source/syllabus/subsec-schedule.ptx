@@ -4,28 +4,19 @@
     <title>Tentative Schedule</title>
     <tabular>
         <row> 
-            <cell>Week 1</cell><cell>Introduction, COMAP, Laplace Transform</cell>
+            <cell>Week 1-Week 3</cell><cell>Graphs, Equations and Inequalities</cell>
         </row>
         <row>
-            <cell>Week 2- Week 4</cell><cell>Vector Calculus</cell>
+            <cell>Week 4- Week 6</cell><cell>Functions</cell>
         </row>
         <row>
-            <cell>Week 5- Week 7</cell><cell>Series Solution, Orthogonal Functions, Fourier Series</cell>
+            <cell>Week 7- Week 9</cell><cell>Polynomial and Rational Functions</cell>
         </row>
         <row>
-            <cell>Week 8-Week 9</cell><cell>Boundarey Value Problems in Rectangular Coordinates</cell>
+            <cell>Week 10-Week 12</cell><cell>Exponential and Logarithmic Functions</cell>
         </row>
         <row>
-            <cell>Week 10- Week 11</cell><cell>Numerical Methods for PDE</cell>
-        </row>
-        <row>
-            <cell>Week 12</cell><cell>BVP in other coordinate Systems</cell>
-        </row>
-        <row>
-            <cell>Week 13</cell><cell>Integral Transform Method</cell>
-        </row>
-        <row>
-            <cell>Week 14- Week 15</cell><cell>Final Project Presentation, Final Exam</cell>
+            <cell>Week 13- Week 14</cell><cell>Basic Trigonometry</cell>
         </row>
     </tabular>
     
